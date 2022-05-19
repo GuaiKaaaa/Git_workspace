@@ -9,6 +9,7 @@ public class HelloGit {
         System.out.println("Hellogit");
         System.out.println("1111");
         System.out.println("2222");
+        System.out.println("分支添加");
 
     }
 }
